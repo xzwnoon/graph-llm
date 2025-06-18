@@ -1,0 +1,39 @@
+{
+  "node_labels": [
+    "AluminumAlloy",
+    "AlloyingElement",
+    "ProcessingTechnique",
+    "MechanicalProperty",
+    "Microstructure",
+    "ScientificLiterature"
+  ],
+  "relationship_types": [
+    "CONTAINS_ELEMENT",
+    "UNDERGOES_PROCESS",
+    "EXHIBITS_PROPERTY",
+    "AFFECTS_PROPERTY",
+    "AFFECTS_PERFORMANCE",
+    "RESULTS_IN_MICROSTRUCTURE",
+    "INFLUENCES_MICROSTRUCTURE",
+    "IMPROVES",
+    "DEGRADES",
+    "HAS_ORIGIN",
+    "INCREASES_PROPERTY",
+    "DECREASES_PROPERTY",
+    "NO_EFFECT_ON"
+  ],
+  "standardization_map": {
+    "7075-T6": ["7075-T6", "7075 T6 alloy"],
+    "Sc": ["Sc", "Scandium"],
+    "Tensile Strength": ["tensile strength", "ultimate tensile strength", "UTS"],
+    "Hardness": ["hardness", "material hardness"],
+    "T6 Aging": ["T6 Aging", "T6 aging", "T6 heat treatment"],
+    "Homogenization": ["Homogenization", "homogenization", "homogenization process"],
+    "Al3Sc Precipitate": ["Al3Sc precipitates", "fine Al3Sc precipitates"],
+    "Grain Size": ["grain size", "Grain size"],
+    "Elongation": ["elongation", "material elongation"],
+    "提升": ["提升", "增强", "increase", "improve", "improves", "enhance", "enhances"],
+    "降低": ["降低", "减弱", "decrease", "reduce", "reduces", "diminish", "diminishes"],
+    "无影响": ["无影响", "no effect", "not affect", "does not affect"]
+  }
+}
